@@ -1,3 +1,4 @@
+//import { init, exit } from './myPackage';
 // class Block {
 //   constructor(private data: string) {}
 //   static hello() {
@@ -5,3 +6,10 @@
 //   }
 // }
 // Math.fround();
+// init({
+//   url: 'true',
+// });
+// exit(1);
+
+// localStorage.clear();
+// init({ url: 'http', debug: true });
