@@ -1,0 +1,14 @@
+{
+  "name": "nomadcodeTS",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "licenses": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
