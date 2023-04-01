@@ -13,6 +13,9 @@
     "typescript": "^4.6.3"
   },
   "dependencies": {
+    "@types/node": "^18.15.11",
+    "axon": "^2.0.3",
+    "crypto": "^1.0.1",
     "nodemon": "^2.0.22",
     "ts-node": "^10.9.1"
   }
